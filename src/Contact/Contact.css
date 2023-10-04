@@ -1,0 +1,30 @@
+.effecty {
+    position: relative;
+    
+  }
+  .effecty::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -2px;
+    width: 37%;
+    height: 2px;
+    background-color: black;
+    transform: scaleX(1);
+    transition: transform 0.5s ease-in-out;
+  }
+  .effects {
+    position: relative;
+    
+  }
+  .effects::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -2px;
+    width: 17%;
+    height: 2px;
+    background-color: black;
+    transform: scaleX(1);
+    transition: transform 0.5s ease-in-out;
+  }
