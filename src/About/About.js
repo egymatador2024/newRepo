@@ -29,7 +29,7 @@ const About = () => {
             c.fill()
         }
     }
-    
+
     
     
     class Projectile {
