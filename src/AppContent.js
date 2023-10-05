@@ -16,6 +16,7 @@ const AppContent = () => {
             <Route path='/resume'element={<Resume/>}/>
          
            </Routes>
+           <Home/>
       </BrowserRouter>
 
     </div>
