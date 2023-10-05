@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/newRepo/static/css/main.9b0c70e7.css",
-    "main.js": "/newRepo/static/js/main.6e032323.js",
+    "main.js": "/newRepo/static/js/main.b4fe2c97.js",
     "static/media/1.png": "/newRepo/static/media/1.e9ea1ef147afbe4c753a.png",
     "static/media/responsive-image.jpg": "/newRepo/static/media/responsive-image.72ec8014ac5272e0ac49.jpg",
     "static/media/blue professional modern CV resume.pdf": "/newRepo/static/media/blue professional modern CV resume.10ffbe822da8c5244b01.pdf",
@@ -11,10 +11,10 @@
     "static/media/3.jpg": "/newRepo/static/media/3.35ba88536961a6c160af.jpg",
     "index.html": "/newRepo/index.html",
     "main.9b0c70e7.css.map": "/newRepo/static/css/main.9b0c70e7.css.map",
-    "main.6e032323.js.map": "/newRepo/static/js/main.6e032323.js.map"
+    "main.b4fe2c97.js.map": "/newRepo/static/js/main.b4fe2c97.js.map"
   },
   "entrypoints": [
     "static/css/main.9b0c70e7.css",
-    "static/js/main.6e032323.js"
+    "static/js/main.b4fe2c97.js"
   ]
 }
